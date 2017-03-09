@@ -70,7 +70,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:hqs0417/hqs0417.github.io.git
+  repo: https://github.com/hqs0417/hqs0417.github.io.git
   branch: master
   message: 
   
